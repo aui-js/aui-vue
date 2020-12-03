@@ -4,10 +4,6 @@ import router from './router'
 import store from './store'
 Vue.config.productionTip = false
 
-import aui from 'aui-1.0'
- 
-Vue.prototype.aui = aui
-
 new Vue({
   router,
   store,

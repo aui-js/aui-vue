@@ -44,7 +44,7 @@
 			}
 		},
 		mounted() {
-			this.aui.setLocal('items', 'aaaaaaaaaaaaa', 1*24*60*60);
+         
 		},
 		methods:{
 			changeTab(e){
